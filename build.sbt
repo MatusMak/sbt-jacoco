@@ -1,5 +1,5 @@
 name := "sbt-jacoco"
-organization := "com.antonionoca"
+organization := "com.github.matusmak"
 
 version in ThisBuild := "3.2.1"
 
